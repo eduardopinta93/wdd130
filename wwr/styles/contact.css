@@ -20,7 +20,7 @@ header, main, footer{
     width: 840px;
     margin: 0 auto;
 }
-h2{
+h1{
     font-family: var(--heading-font);
     color: var(--primary-color);
 }
